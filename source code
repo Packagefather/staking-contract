@@ -29,7 +29,7 @@ contract Stakers {
 		int256 scaledPayout;  
 		uint256 staketime;
 	}
-
+ 
 	struct Info {
 		uint256 totalSupply;
 		uint256 totalStake;
